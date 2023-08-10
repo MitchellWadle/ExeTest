@@ -1,0 +1,7 @@
+O:\LifePolandPCshared\Automation_Data_And_Formulas\Mitchell\ExeTest\ExeGithubTest\bin\Debug\ExeGithubTest.exe.config
+O:\LifePolandPCshared\Automation_Data_And_Formulas\Mitchell\ExeTest\ExeGithubTest\bin\Debug\ExeGithubTest.exe
+O:\LifePolandPCshared\Automation_Data_And_Formulas\Mitchell\ExeTest\ExeGithubTest\bin\Debug\ExeGithubTest.pdb
+O:\LifePolandPCshared\Automation_Data_And_Formulas\Mitchell\ExeTest\ExeGithubTest\obj\Debug\ExeGithubTest.csproj.AssemblyReference.cache
+O:\LifePolandPCshared\Automation_Data_And_Formulas\Mitchell\ExeTest\ExeGithubTest\obj\Debug\ExeGithubTest.csproj.CoreCompileInputs.cache
+O:\LifePolandPCshared\Automation_Data_And_Formulas\Mitchell\ExeTest\ExeGithubTest\obj\Debug\ExeGithubTest.exe
+O:\LifePolandPCshared\Automation_Data_And_Formulas\Mitchell\ExeTest\ExeGithubTest\obj\Debug\ExeGithubTest.pdb
